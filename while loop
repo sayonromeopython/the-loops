@@ -1,0 +1,17 @@
+#loops practice
+#The while loop
+#count from 1 to 5
+current_number = 1
+while current_number <= 5:
+  print(current_number)
+  current_number += 1
+
+
+# practice
+# backward from 5 to 1
+num = 5
+while num >= 1:
+ print(num)
+num -= 1
+
+# infinite loop
